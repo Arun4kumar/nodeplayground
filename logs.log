@@ -1,0 +1,17 @@
+{"message":"E11000 duplicate key error collection: playground.users index: username_1 dup key: { username: \"arun\" }","level":"error","service":"user-service"}
+{"message":"users validation failed: email: User already exists","level":"error","service":"user-service"}
+{"message":"users validation failed: email: User already exists","level":"error","service":"user-service"}
+{"message":"E11000 duplicate key error collection: playground.users index: username_1 dup key: { username: \"Trun\" }","level":"error","service":"user-service"}
+{"message":"users validation failed: email: User already exists","level":"error","service":"user-service"}
+{"message":"users validation failed: email: Email is requred","level":"error","service":"user-service"}
+{"message":"users validation failed: email: Email is required","level":"error","service":"user-service"}
+{"message":"users validation failed: email: Email is required","level":"error","service":"user-service"}
+{"message":"res.headers is not a function","level":"error","service":"user-service"}
+{"message":"res.headers is not a function","level":"error","service":"user-service"}
+{"message":"userRegisterValidator is not a function","level":"error","service":"user-service"}
+{"message":"email is not defined","level":"error","service":"user-service"}
+{"message":"Cannot read property 'getjsonwebtoken' of null","level":"error","service":"user-service"}
+{"message":"401","level":"error","service":"user-service"}
+{"code":"EADDRINUSE","errno":-4091,"syscall":"listen","address":"::","port":5000,"level":"info","service":"user-service"}
+{"service":"user-service","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":80,"type":"FETCH","sourceUrl":"[object Object]/user","level":"error","message":"connect ECONNREFUSED 127.0.0.1:80 connect ECONNREFUSED 127.0.0.1:80","stack":"Error: connect ECONNREFUSED 127.0.0.1:80\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1148:16)"}
+{"service":"user-service","errno":-4078,"code":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":80,"type":"FETCH","sourceUrl":"[object Object]/user","level":"error","message":"connect ECONNREFUSED 127.0.0.1:80 connect ECONNREFUSED 127.0.0.1:80","stack":"Error: connect ECONNREFUSED 127.0.0.1:80\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1148:16)"}
